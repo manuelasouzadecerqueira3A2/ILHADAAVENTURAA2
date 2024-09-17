@@ -1,7 +1,7 @@
 body {
-    background-color: #1D4221;
-    color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    background-color: #FF3300;
+    color: #C70039;
+    font-family: "Roboto Slab", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
 }
 
 button {
-    background-color: #64A712;
-    color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    background-color: #FF5733;
+    color: #C70039;
+    font-family: "Roboto Slab", sans-serif;
 } 
